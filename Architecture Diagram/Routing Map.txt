@@ -1,0 +1,16 @@
+App
+│
+├── /                      → Home
+├── /course-list           → CoursesList
+│   └── /course-list/:input
+│
+├── /course/:id            → CourseDetails
+├── /my-enrollments        → MyEnrollments
+├── /player/:courseId      → Player
+├── /loading/:path         → Loading
+│
+└── /educator              → Educator (Layout)
+    ├── (index)            → Dashboard
+    ├── /add-course        → AddCourse
+    ├── /my-courses        → MyCourses
+    └── /student-enrolled  → StudentsEnrolled

@@ -1,0 +1,7 @@
+API / Firebase / Backend
+          ↓
+     AppContext
+          ↓
+   Pages (Student / Educator)
+          ↓
+      Components

@@ -1,0 +1,9 @@
+Educator.jsx
+│
+├── Sidebar
+├── Navbar
+└── <Outlet />
+    ├── Dashboard
+    ├── AddCourse
+    ├── MyCourses
+    └── StudentsEnrolled

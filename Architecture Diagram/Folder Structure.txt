@@ -1,0 +1,41 @@
+src
+│
+├── pages
+│   ├── student
+│   │   ├── Home.jsx
+│   │   ├── CoursesList.jsx
+│   │   ├── CourseDetails.jsx
+│   │   ├── MyEnrollments.jsx
+│   │   └── Player.jsx
+│   │
+│   └── educator
+│       ├── Educator.jsx   ← Layout
+│       ├── Dashboard.jsx
+│       ├── AddCourse.jsx
+│       ├── MyCourses.jsx
+│       └── StudentsEnrolled.jsx
+│
+├── components
+│   ├── student
+│   │   ├── Navbar.jsx
+│   │   ├── CourseCard.jsx
+│   │   └── SearchBar.jsx
+            Contactus.jsx
+            CourseSection.jsx
+            Hero.jsx
+            Loading.jsx
+            TestmonialsSection.jsx
+            Aboutus.jsx
+            CallToAction.jsx
+            Companies.jsx
+
+│   │
+│   └── educator
+│       ├── Sidebar.jsx
+│       └── Navbar.jsx
+│
+├── context
+│   └── AppContext.jsx
+│
+├── App.jsx
+└── main.jsx

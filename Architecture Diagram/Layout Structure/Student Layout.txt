@@ -1,0 +1,9 @@
+Page
+│
+├── Navbar (student)
+├── Main Content
+│   ├── Home
+│   ├── CoursesList
+│   ├── CourseDetails
+│   └── Player
+└── Footer
