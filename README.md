@@ -1,16 +1,120 @@
-# React + Vite
+# 🎓 LMS Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Learning Management System (LMS) website** built with React.
+The platform provides an intuitive interface for browsing courses, learning resources, and managing educational content.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:**
+https://magenta-starburst-db37fe.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is a responsive **LMS front-end platform** designed to provide a smooth and modern learning experience.
+It allows users to explore courses, navigate through educational sections, and interact with a clean and user-friendly interface.
 
-## Expanding the ESLint configuration
+The project focuses on **performance, scalability, and maintainable code structure** using modern front-end technologies.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+* 📚 Browse available courses
+* 🎨 Clean and modern UI
+* ⚡ Fast performance
+* 📱 Fully responsive design
+* 🧩 Component-based architecture
+* 🔍 Easy navigation and user-friendly layout
+
+---
+
+## 🛠️ Tech Stack
+
+This project was built using modern front-end technologies:
+
+* **React**
+* **JavaScript (ES6+)**
+* **HTML5**
+* **CSS3**
+* **Vite** for fast development and build
+* **Git & GitHub** for version control
+* **Netlify** for deployment
+
+---
+
+## 📂 Project Structure
+
+```
+LMS_WEBSITE
+│
+├── public
+├── src
+│   ├── components
+│   ├── pages
+│   ├── assets
+│   └── App.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+### 1️⃣ Clone the repository
+
+```
+git clone https://github.com/your-username/LMS_WEBSITE.git
+```
+
+### 2️⃣ Install dependencies
+
+```
+npm install
+```
+
+### 3️⃣ Run the development server
+
+```
+npm run dev
+```
+
+The app will run on:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🌍 Deployment
+
+The project is deployed using **Netlify**.
+
+Live demo:
+https://magenta-starburst-db37fe.netlify.app/
+
+---
+
+## 📸 Preview
+
+You can explore the live version of the project here:
+
+👉 https://magenta-starburst-db37fe.netlify.app/
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Mohammed Sabry Mahdy**
+
+* GitHub Profile: https://github.com/mohammed-sabrymahdy
+
+---
+
+## 📄 License
+
+This project is for educational and demonstration purposes.
